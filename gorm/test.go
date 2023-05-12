@@ -9,6 +9,7 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
 
+/*gorm2*/
 func main() {
 
 	db := util.GetDB()

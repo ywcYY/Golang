@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="Changes" />
+    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="gorm1">
+      <change beforePath="$PROJECT_DIR$/gorm/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/gorm/test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +247,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes2" />
     <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <MESSAGE value="gorm1" />
+    <option name="LAST_COMMIT_MESSAGE" value="gorm1" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
