@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="gorm1">
-      <change beforePath="$PROJECT_DIR$/gorm/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/gorm/test.go" afterDir="false" />
+    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="gorm2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorm/util/db_util.go" beforeDir="false" afterPath="$PROJECT_DIR$/gorm/util/db_util.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,30 +41,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/ywcdsj/goland",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ywcdsj/goland&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ywcdsj\goland\gorm_demo" />
@@ -71,22 +72,22 @@
       <recent name="D:\ywcdsj\goland\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build goland/gorm">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+  <component name="RunManager" selected="Go 构建.go build http_router/Gin_First">
+    <configuration name="go build client.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goland" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go_tcp/client.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build goland (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build example.com/m" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="goland" />
+      <working_directory value="$PROJECT_DIR$/golang_http" />
+      <kind value="PACKAGE" />
+      <package value="example.com/m" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/1.go" />
+      <filePath value="$PROJECT_DIR$/golang_http/test_http.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build goland" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" nameIsGenerated="true">
@@ -107,66 +108,47 @@
       <filePath value="$PROJECT_DIR$/string_test.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build goland/gorm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build http_router/Gin_First" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goland" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="goland/gorm" />
+      <package value="http_router/Gin_First" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gorm/test_gorm_start.go" />
+      <filePath value="$PROJECT_DIR$/Gin_First/gin.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build goland/gorountime (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build http_router/http_router" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goland" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="http_router/http_router" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/http_router/httprouter.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build service.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goland" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <package value="goland/gorountime" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gorountime/timer_repetition.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build goland/gorountime" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="goland/gorountime" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gorountime/timer.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build goland/goroutine" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="goland/goroutine" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/goroutine/timer_repetition.go" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
+      <filePath value="$PROJECT_DIR$/go_tcp/service.go" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go 构建.go build goland" />
-      <item itemvalue="Go 构建.go build goland/gorm" />
-      <item itemvalue="Go 构建.go build goland/gorountime" />
-      <item itemvalue="Go 构建.go build goland/gorountime (1)" />
-      <item itemvalue="Go 构建.go build goland/goroutine" />
-      <item itemvalue="Go 构建.go build goland (1)" />
+      <item itemvalue="Go 构建.go build http_router/Gin_First" />
+      <item itemvalue="Go 构建.go build http_router/http_router" />
+      <item itemvalue="Go 构建.go build client.go" />
+      <item itemvalue="Go 构建.go build example.com/m" />
+      <item itemvalue="Go 构建.go build service.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build goland/gorm" />
-        <item itemvalue="Go 构建.go build goland/goroutine" />
-        <item itemvalue="Go 构建.go build goland/gorountime (1)" />
-        <item itemvalue="Go 构建.go build goland/gorountime" />
-        <item itemvalue="Go 构建.go build goland (1)" />
+        <item itemvalue="Go 构建.go build http_router/Gin_First" />
+        <item itemvalue="Go 构建.go build http_router/http_router" />
+        <item itemvalue="Go 构建.go build example.com/m" />
+        <item itemvalue="Go 构建.go build client.go" />
+        <item itemvalue="Go 构建.go build service.go" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +209,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/master1" />
                       </list>
                     </value>
                   </entry>
@@ -248,7 +230,8 @@
     <MESSAGE value="Changes2" />
     <MESSAGE value="Changes" />
     <MESSAGE value="gorm1" />
-    <option name="LAST_COMMIT_MESSAGE" value="gorm1" />
+    <MESSAGE value="gorm2" />
+    <option name="LAST_COMMIT_MESSAGE" value="gorm2" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
