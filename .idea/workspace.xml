@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="Gin实现用户登录">
+    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="Gin  test  个人博客">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/17453.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/17453.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gin_First/gin.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gin_First/gin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/controller/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/controller/controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/dao/dao.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/dao/dao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/model/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/router/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/router/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_my_blog/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,30 +50,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/ywcdsj/goland/gin_my_blog/assets",
-    "settings.editor.selected.configurable": "configurable.group.build"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ywcdsj/goland/gin_my_blog/assets&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ywcdsj\goland\gin_my_blog\assets" />
@@ -77,6 +86,14 @@
     </key>
   </component>
   <component name="RunManager" selected="Go 构建.go build gin_my_blog">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goland" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build gin_my_blog" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goland" />
       <working_directory value="$PROJECT_DIR$/gin_my_blog" />
@@ -138,6 +155,15 @@
       <package value="http_router/Gin_login" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/Gin_login/test_filement_upload.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="goland" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <method v="2" />
     </configuration>
     <list>
@@ -207,6 +233,31 @@
             </State>
           </value>
         </entry>
+        <entry key="996eb440-b47e-4314-8018-6169be104a84">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/ywcdsj/goland/gin_my_blog" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -215,7 +266,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master1" />
+                        <option value="master1" />
                       </list>
                     </value>
                   </entry>
@@ -238,7 +289,8 @@
     <MESSAGE value="gorm1" />
     <MESSAGE value="gorm2" />
     <MESSAGE value="Gin实现用户登录" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gin实现用户登录" />
+    <MESSAGE value="Gin  test  个人博客" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gin  test  个人博客" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
