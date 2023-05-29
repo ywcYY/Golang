@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="Gin  test  个人博客完结">
-      <change beforePath="$PROJECT_DIR$/.idea/goland.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/goland.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/controller/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/controller/controller.go" afterDir="false" />
+    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="Gin  test">
+      <change afterPath="$PROJECT_DIR$/Test/calc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/calc_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +293,8 @@
     <MESSAGE value="Gin实现用户登录" />
     <MESSAGE value="Gin  test  个人博客" />
     <MESSAGE value="Gin  test  个人博客完结" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gin  test  个人博客完结" />
+    <MESSAGE value="Gin  test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gin  test" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
