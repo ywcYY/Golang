@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="Gin  test  个人博客">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/17453.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/17453.xml" afterDir="false" />
+    <list default="true" id="176d2a03-477a-4ffc-a9d8-95703f69c59f" name="Changes" comment="Gin  test  个人博客完结">
+      <change beforePath="$PROJECT_DIR$/.idea/goland.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/goland.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gin_my_blog/controller/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/controller/controller.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/dao/dao.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/dao/dao.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/model/model.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/router/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/router/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/templates/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_my_blog/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/gin_my_blog/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +57,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ywcdsj/goland/gin_my_blog/assets&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/17453/Desktop/nydus-storage-plugin&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;goland.project.structure&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -80,27 +73,19 @@
       <recent name="D:\ywcdsj\goland\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ywcdsj\goland" />
       <recent name="D:\ywcdsj\goland\gorm_demo" />
       <recent name="D:\ywcdsj\goland\design_model" />
       <recent name="D:\ywcdsj\goland\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build gin_my_blog">
+  <component name="RunManager" selected="Go 测试.http_router/Test 中的 TestConn">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="goland" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build gin_my_blog" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$/gin_my_blog" />
-      <kind value="PACKAGE" />
-      <package value="gin_my_blog" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/gin_my_blog/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build goland" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" nameIsGenerated="true">
@@ -121,42 +106,6 @@
       <filePath value="$PROJECT_DIR$/string_test.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build http_router/Gin_login (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="http_router/Gin_login" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Gin_login/gin_BasicAuth.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build http_router/Gin_login (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="http_router/Gin_login" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Gin_login/gin_cookie.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build http_router/Gin_login (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="http_router/Gin_login" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Gin_login/go_test_output.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build test_filement_upload.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goland" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="http_router/Gin_login" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Gin_login/test_filement_upload.go" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="goland" />
       <working_directory value="$PROJECT_DIR$" />
@@ -166,21 +115,75 @@
       <framework value="gotest" />
       <method v="2" />
     </configuration>
+    <configuration name="http_router/Test 中的 TestAdd" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goland" />
+      <working_directory value="$PROJECT_DIR$/Test" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="http_router/Test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestAdd\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_router/Test 中的 TestConn" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goland" />
+      <working_directory value="$PROJECT_DIR$/Test" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="http_router/Test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestConn\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_router/Test 中的 TestMul" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goland" />
+      <working_directory value="$PROJECT_DIR$/Test" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="http_router/Test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMul\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_router/Test 中的 TestMul/pos" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goland" />
+      <working_directory value="$PROJECT_DIR$/Test" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="http_router/Test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMul\E$/^\Qpos\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$USER_HOME$/nydus-storage-plugin/Makefile" target="build" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go 构建.go build goland" />
-      <item itemvalue="Go 构建.go build gin_my_blog" />
-      <item itemvalue="Go 构建.go build http_router/Gin_login (3)" />
-      <item itemvalue="Go 构建.go build test_filement_upload.go" />
-      <item itemvalue="Go 构建.go build http_router/Gin_login (1)" />
-      <item itemvalue="Go 构建.go build http_router/Gin_login (2)" />
+      <item itemvalue="Go 测试.http_router/Test 中的 TestAdd" />
+      <item itemvalue="Go 测试.http_router/Test 中的 TestConn" />
+      <item itemvalue="Go 测试.http_router/Test 中的 TestMul" />
+      <item itemvalue="Go 测试.http_router/Test 中的 TestMul/pos" />
+      <item itemvalue="Makefile 目标.build" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build gin_my_blog" />
-        <item itemvalue="Go 构建.go build test_filement_upload.go" />
-        <item itemvalue="Go 构建.go build http_router/Gin_login (3)" />
-        <item itemvalue="Go 构建.go build http_router/Gin_login (2)" />
-        <item itemvalue="Go 构建.go build http_router/Gin_login (1)" />
+        <item itemvalue="Go 测试.http_router/Test 中的 TestConn" />
+        <item itemvalue="Go 测试.http_router/Test 中的 TestMul" />
+        <item itemvalue="Go 测试.http_router/Test 中的 TestMul/pos" />
+        <item itemvalue="Go 测试.http_router/Test 中的 TestAdd" />
+        <item itemvalue="Makefile 目标.build" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +293,8 @@
     <MESSAGE value="gorm2" />
     <MESSAGE value="Gin实现用户登录" />
     <MESSAGE value="Gin  test  个人博客" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gin  test  个人博客" />
+    <MESSAGE value="Gin  test  个人博客完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gin  test  个人博客完结" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
